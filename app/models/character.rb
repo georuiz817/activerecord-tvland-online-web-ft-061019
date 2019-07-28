@@ -6,4 +6,3 @@
     "#{self.name} always says: #{self.catchphrase}"
   end
 end
-end
