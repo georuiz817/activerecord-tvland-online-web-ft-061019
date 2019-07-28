@@ -6,4 +6,3 @@
     self.actors.collect{|actor| actor.full_name}
   end 
 end
-end
